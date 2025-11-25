@@ -518,8 +518,9 @@ html {
 
 .info-box {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     margin-bottom: 25px;
+    gap: 15px;
     text-align: left;
 }
 
@@ -530,7 +531,7 @@ html {
     color: #051A49; /* Navy */
     border-radius: 50%;
     display: flex;
-    margin-top: -8px;
+    flex-shrink:0;
     justify-content: center;
     align-items: center;
     font-size: 20px;
@@ -828,3 +829,4 @@ html {
         padding: 20px;
     }
 }
+
