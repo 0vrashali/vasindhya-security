@@ -828,5 +828,14 @@ html {
     .contact-form {
         padding: 20px;
     }
+    .info-box {
+        align-items: center;
+    }
+
+    .icon-circle {
+        width: 45px;
+        height: 45px;
+    }
 }
+
 
