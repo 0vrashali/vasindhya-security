@@ -838,22 +838,7 @@ html {
     }
 }
 
-@media (max-width: 600px) {
-    .secondsec {
-        padding: 25px 15px;
-    }
 
-    .secondsec .heading {
-        font-size: 22px;
-    }
 
-    .secondsec .subheading {
-        font-size: 18px;
-    }
-
-    .secondsec .info {
-        font-size: 15px;
-    }
-}
 
 
