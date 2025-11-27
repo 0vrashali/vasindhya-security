@@ -7,6 +7,10 @@ html{
     scroll-behavior: smooth;
 }
 
+html, body{
+    overflow-x: hidden;
+    width:100%:
+}
 .logo{
     width: 20%;
     display: flex;
@@ -837,6 +841,7 @@ html {
         height: 45px;
     }
 }
+
 
 
 
