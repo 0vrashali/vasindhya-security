@@ -156,7 +156,8 @@ html {
 }
 
 .secondsec {
-    height: 80vh;
+    min-height:100vh;
+    height: auto;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -843,6 +844,7 @@ html {
         height: 45px;
     }
 }
+
 
 
 
