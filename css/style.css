@@ -9,7 +9,7 @@ html{
 
 html, body{
     overflow-x: hidden;
-    width:100%:
+    width:100%;
 }
 .logo{
     width: 20%;
@@ -166,7 +166,9 @@ html {
 .background2{
     background-image: url('../images/sec1.png');
     background-size: cover;
-    width: 100%;   
+    background-position: center;
+    width: 100%;
+    display:block;
 }
 
 .para{
@@ -841,6 +843,7 @@ html {
         height: 45px;
     }
 }
+
 
 
 
